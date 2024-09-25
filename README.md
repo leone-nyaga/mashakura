@@ -1,0 +1,1 @@
+Welcome to mashakura, an API that focuses on delicious Kenyan meals.
